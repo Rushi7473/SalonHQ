@@ -1,0 +1,2 @@
+# SalonHQ
+Automated script
